@@ -22,8 +22,3 @@ This project allows two players to play the classic Tic Tac Toe game in the term
 
 ---
 
-## 🚀 How to Run the Program
-
-### Step 1: Compile the Code
-```bash
-gcc tictactoe.c -o game
